@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606775153 source:c:\codeblocks\recuprimerparcialprogra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
